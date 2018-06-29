@@ -1,14 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DIS 2019</title>
+    <title>ACM Designing Interactive Systems 2019 on DIS 2019</title>
     <link>https://jtibau.github.io/dis2019/</link>
-    <description>Recent content on DIS 2019</description>
+    <description>Recent content in ACM Designing Interactive Systems 2019 on DIS 2019</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
 	<atom:link href="https://jtibau.github.io/dis2019/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Important Dates</title>
+      <link>https://jtibau.github.io/dis2019/importantdates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jtibau.github.io/dis2019/importantdates/</guid>
+      <description> Papers  Abstract and title due: Tuesday, January 15, 2019 Paper submission deadline: Friday, January 18, 2019 External reviews due: Friday, March 1, 2019 Virtual PC Meeting with all ACs, SCs, and TCs (GCs will observe): Monday/Tuesday, March 18 &amp;amp; 19, 2019 Paper notifications to authors: Thursday, March 21, 2019 Papers camera ready deadline: Wednesday, April 17, 2019 Conference: June 23-29, 2019  Other Deadlines  Pictorials: Friday, January 18, 2019 Workshop Proposals: Friday January 18, 2019 Doctoral Consortium: Friday, February 8, 2019 Provocations/WIP: Friday, February 8, 2019 Demos: Friday, February 8, 2019  </description>
+    </item>
+    
+    <item>
+      <title>Organizers</title>
+      <link>https://jtibau.github.io/dis2019/organizers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jtibau.github.io/dis2019/organizers/</guid>
+      <description>Conference Chairs: Steve Harrison &amp;amp; Shaowen Bardzell
+Associate Chairs: Steven Dow &amp;amp; Mary Lou Maher (C&amp;amp;C2019 co-chairs)
+Technical Program Chairs: Carman Neustaedter &amp;amp; Deborah Tatar
+Paper Sub-Committees Critical Computing and Design Theory: Paul Dourish &amp;amp; Jeffery Bardzell
+Design Methods and Processes: Ellen Do &amp;amp; John Zimmerman
+Experience, Artifacts, and Technology: Rogerio de Paula &amp;amp; Shaun Lawson
+Change Through Design: Tone Bratteteig &amp;amp; Josh Tennenbaum
+Doctoral Consortium: Susanne Bødker &amp;amp; John Bowers</description>
+    </item>
     
   </channel>
 </rss>
