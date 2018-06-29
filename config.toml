@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://jtibau.github.io/dis2019/"
 languageCode = "en-us"
 title = "DIS 2019"
 theme = "gohugo-theme-ananke"
