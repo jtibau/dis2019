@@ -1,7 +1,5 @@
 ---
 title: "Important Dates"
-date: 2018-06-29T11:28:08-04:00
-draft: true
 menu:
     main: {}
 ---

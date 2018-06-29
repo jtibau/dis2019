@@ -1,7 +1,5 @@
 ---
 title: "Organizers"
-date: 2018-06-29T11:35:06-04:00
-draft: true
 menu:
     main: {}
 ---
