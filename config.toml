@@ -1,0 +1,9 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "DIS 2019"
+theme = "ananke"
+    
+[params]
+    description = "Designing Interactive Systems (DIS) 2019: Contesting Borders and Intersections"
+    #background_color_class = "bg-light-red"
+    featured_image = '/images/pinkMountainsCity.png'
